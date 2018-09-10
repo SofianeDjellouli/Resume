@@ -53,8 +53,11 @@
 }
 
 /********/
-.stack {
+/*.stack {
   width: 30%;
+}*/
+.stack {
+  width: 20%;
 }
 .projects {
   width: 24%;
