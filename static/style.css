@@ -9,9 +9,8 @@
 }
 
 .main-content {
-  height: 70vh;
+  height: 54vh;
 }
-
 .navbar {
   transition: 500ms ease;
   background-color: #343a40;
